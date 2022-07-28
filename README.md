@@ -1,2 +1,2 @@
-# Insta
- Instagram landing page
+# ts
+ desafios da dio - TypeScript
